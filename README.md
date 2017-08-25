@@ -9,3 +9,14 @@ Built using [Flask-PyMongo](https://flask-pymongo.readthedocs.io/en/latest/) and
 | POST a framework | /framework      | POST |
 
 Tested GET and POST in [Postman](https://www.getpostman.com/)
+
+To run this project install all the dependencies by running 
+
+```python
+pip install -r requirements.txt
+```
+and then
+
+```python
+python mongo.py
+```
